@@ -35,4 +35,6 @@ public class Duck {
         maxSpeed = max;
         System.out.println("type 5 duck");
     }
+
+
 }
